@@ -3,7 +3,7 @@
 Before running the web dashboard, make sure you have installed:
 
 - [Node.js](https://nodejs.org/) (v14 or later)
-- [React](https://reactjs.org/)
+- [React](https://reactjs.org/) with [Vite](https://vitejs.dev/)
 
 Then, clone this repository and install dependencies:
 
@@ -11,4 +11,4 @@ Then, clone this repository and install dependencies:
 git clone <repository-url>
 cd <project-folder>
 npm install
-npm start
+npm run dev
